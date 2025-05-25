@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IfdusORo71EI5Q2lwQuUpU6TcesvhrOLf0QErsEXVfc=",
+  "Source": "BudgetManager.Api",
+  "BasePath": "_content/BudgetManager.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
