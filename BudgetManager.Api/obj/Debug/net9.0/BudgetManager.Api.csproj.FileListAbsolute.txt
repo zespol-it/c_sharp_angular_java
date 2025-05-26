@@ -246,3 +246,4 @@
 /private/var/www/SkoT/c_sharp_angular/BudgetManager.Api/obj/Debug/net9.0/ref/BudgetManager.Api.dll
 /private/var/www/SkoT/c_sharp_angular/BudgetManager.Api/bin/Debug/net9.0/BudgetManager.postman_collection.json
 /private/var/www/SkoT/c_sharp_angular/BudgetManager.Api/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/private/var/www/SkoT/c_sharp_angular/BudgetManager.Api/obj/Debug/net9.0/BudgetManager.Api.sourcelink.json
